@@ -1,0 +1,55 @@
+{
+  "$": "ime.extension.keyboard",
+  "meta": {
+    "id": "hyzi.symbolss",
+    "version": "2.6.0",
+    "title": "A symbol distribution for the code!",
+    "description": "Hi!",
+    "maintainers": [
+      "https://codeberg.org/hyzi"
+    ],
+    "license": "MIT License"
+  },
+  "layouts": {
+    "characters": [
+      {
+        "id": "colemak-dh",
+        "label": "Hyzi/ColemakDH",
+        "authors": [
+          "Hydra"
+        ],
+        "direction": "ltr"
+      }
+    ],
+    "numericRow": [
+      {
+        "id": "numeric",
+        "label": "Hyzi/Numeric",
+        "authors": [
+          "Hydra"
+        ],
+        "direction": "ltr"
+      }
+    ],
+    "symbols": [
+      {
+        "id": "symbols",
+        "label": "Hyzi/Symbols",
+        "authors": [
+          "Hydra"
+        ],
+        "direction": "ltr"
+      }
+    ],
+    "symbols2": [
+      {
+        "id": "2symbols",
+        "label": "Hyzi/2Symbols",
+        "authors": [
+          "Hydra"
+        ],
+        "direction": "ltr"
+      }
+    ]
+  }
+}

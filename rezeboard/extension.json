@@ -1,0 +1,26 @@
+{
+  "$": "ime.extension.theme",
+  "meta": {
+    "id": "hyzi.themes.reze",
+    "version": "4.1.6",
+    "title": "A subject of reze! <3",
+    "maintainers": [
+      "https://codeberg.org/hyzi"
+    ],
+    "license": "MIT License"
+  },
+  "themes": [
+    {
+      "id": "reze_y16",
+      "label": "Reze-Y16",
+      "authors": [
+        "hyzi"
+      ],
+      "materialYouFlags": {
+        "paletteStyle": "Expressive",
+        "contrastLevel": "High",
+        "specVersion": "SPEC_2021"
+      }
+    }
+  ]
+}
