@@ -50,4 +50,4 @@ Created by **[hyzi]**.
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-If you share, adapt, or redistribute this theme, please retain the original credits and include a link back to this repository.
+If you use, adapt, or share anything from this project, please keep the original credits and link back to this repository.
